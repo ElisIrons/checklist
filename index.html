@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Lista de Tarefas</title>
+  </head>
+
+  <body>
+    <main>
+      <div class="image-container">
+        <img src="css/imagens/jake.png" alt="Adventure Image" />
+        <h1>Lista de Aventuras</h1>
+      </div>
+
+      <div id="bloco">
+        <form id="todo-form">
+          <input
+            type="text"
+            placeholder="Informe sua aventura..."
+            id="task-title-input"
+          />
+          <button type="submit" id="add-task-button"></button>
+        </form>
+      </div>
+
+      <section>
+        <ul id="todo-list"></ul>
+      </section>
+    </main>
+
+    <img src="css/imagens/off.png" alt="volume" class="music-control" />
+    <audio src="css/imagens/AdventureTime.mp3"></audio>
+
+    <script src="js/index.js"></script>
+  </body>
+</html>

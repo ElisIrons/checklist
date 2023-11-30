@@ -1,0 +1,21 @@
+                     ~~Pieces of Eight Alt Mapping~~
+		           Made by Steve Ferrera	
+                                  2007
+
+
+ UPPER CASE			LOWER CASE
+
+B = B				a = a
+C = C				b = b
+D = D				c = b
+O = O				e = e
+P = P				f = e
+Q = P				i = i
+R = R				n = n
+				r = r
+				s = s
+				t = t
+
+
+
+2010-05-20 Updated European characters
